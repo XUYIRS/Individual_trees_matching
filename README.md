@@ -1,8 +1,9 @@
 # Individual trees matching
-![Graphical abstract](https://github.com/XUYIRS/Individual_trees_matching/assets/31101718/0e28d0b2-258d-49ee-9cab-caa4396f10f0)
-### Figure 1. The schematic diagram of individual tree matching.
 
 ### Integrating multimodal remote sensing data can optimize the mapping accuracy of individual trees. Yet, one issue that is not trivial but generally overlooked in previous studies is the spatial mismatch of individual trees between remote sensing datasets, especially in different imaging modalities. These offset errors between the same tree on different data that have been geometrically corrected can lead to substantial inaccuracies in applications.
+
+![Graphical abstract](https://github.com/XUYIRS/Individual_trees_matching/assets/31101718/0e28d0b2-258d-49ee-9cab-caa4396f10f0)
+### Figure 1. The schematic diagram of individual tree matching.
 
 ![【New】Tree Crown Offset](https://github.com/XUYIRS/Individual_trees_matching/assets/31101718/34a80c0a-bf7c-4511-b6aa-7dfc8694a987)
 ### Figure 2. Examples of the spatial mismatches between individual trees resulting from local displacement between aerial photographs and the canopy height models (CHMs) generated from the airborne LiDAR point cloud data in the study area. Yellow and red circles with the same letter have the same geographical location.
