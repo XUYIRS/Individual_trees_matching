@@ -102,6 +102,8 @@ def tree_matching(wrap_path, ref_path, top=3, dist_max=3.0, k=10):
             offset_vector = [0, 0]
             last_NIoU_mean, last_tar_niou, last_niou_list = Mean_NIoU(ARP_filtered, CMM_filtered, top)
 
+            last_offset_index = [-1,-1]
+            
             for i in ARP_top_indices:
                 cx = ARP_filtered.loc[i].geometry.centroid.x
                 cy = ARP_filtered.loc[i].geometry.centroid.y
