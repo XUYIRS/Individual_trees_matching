@@ -5,7 +5,7 @@
 ![Graphical abstract](https://github.com/XUYIRS/Individual_trees_matching/assets/31101718/0e28d0b2-258d-49ee-9cab-caa4396f10f0)
 ### Figure 1. The schematic diagram of individual tree matching.
 
-![【New】Tree Crown Offset](https://github.com/XUYIRS/Individual_trees_matching/assets/31101718/34a80c0a-bf7c-4511-b6aa-7dfc8694a987)
+![Uploading remotesensing-15-04128-g003.png…]()
 ### Figure 2. Examples of the spatial mismatches between individual trees resulting from local displacement between aerial photographs and the canopy height models (CHMs) generated from the airborne LiDAR point cloud data in the study area. Yellow and red circles with the same letter have the same geographical location.
 
 ![IoU NIoU](https://github.com/XUYIRS/Individual_trees_matching/assets/31101718/5a8619e9-bb4e-4cdf-9f55-33515ca09fd5)
