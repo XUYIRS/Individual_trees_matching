@@ -18,4 +18,5 @@
 #### Citation:
 
 Xu, Y.; Wang, T.; Skidmore, A.K.; Gara, T.W. A Novel Approach to Match Individual Trees between Aerial Photographs and Airborne LiDAR Data. Remote Sens. 2023, 15, 4128. https://doi.org/10.3390/rs15174128
+
 Xu, Y., Wang, T., and Skidmore, A.: An enhanced algorithm for co-registering individual trees extracted from airborne LiDAR and aerial photographs, EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-6725, https://doi.org/10.5194/egusphere-egu24-6725, 2024.
